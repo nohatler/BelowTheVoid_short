@@ -8,7 +8,7 @@ The gameplay of the game is a journey by elevator from one level to another. The
 Sounds simple? Unfortunately not, because on each floor you need to power up the elevator again to go further. How to power up?
 All you need to do is find the key card on the level, <b>but you will have a lot of trouble along the way</b>.
 
-![GamePlay Gif](https://github.com/nohatler/BelowTheVoid_short/blob/main/assets/BelowTheVoid.gif?raw=true){ width=840 }
+![GamePlay Gif](https://github.com/nohatler/BelowTheVoid_short/blob/main/assets/BelowTheVoid.gif?raw=true){width=840}
 
 ! Speedup gif !
 
