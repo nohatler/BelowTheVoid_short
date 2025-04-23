@@ -5,7 +5,7 @@
 
 The gameplay of the game is a journey by elevator from one level to another. The player explores each new location in search of items and tries to <b>SURVIVE</b>.
 
-Sounds simple? Unfortunately not, because on each floor you need to power up the elevator again to go further. How to power up?
+Kind of simple isn't it? Unfortunately not, because on each floor you need to power up the elevator again to go further. How to power up?
 All you need to do is find the key card on the level, <b>but you will have a lot of trouble along the way</b>.
 
 <img src="https://github.com/nohatler/BelowTheVoid_short/blob/main/assets/BelowTheVoid.gif?raw=true" width="840">
